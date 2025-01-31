@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Storage Devices</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Storage Devices</h1>
+        <p><strong>Faris Shihada</strong></p>
+        <p><em>January 2025</em></p>
+
+        <h2>1. Introduction</h2>
+        <p>Hello, I am Faris Shihada and I will talk about different types of storage devices. There are many different types of storage devices like: Hard Drives, Micro SD cards, SSDs, M.2 SSD Storage, and USB Thumb Drives.</p>
+
+        <h2>2. Information</h2>
+        <p>Storage is something that we normally use every day, and it is very important for your devices. Without storage devices, your device will not work at all.</p>
+
+        <h2>3. Breaking Down Storage Devices</h2>
+        <h3>Hard Drive</h3>
+        <p>A hard drive is very complicated. It has many different parts, but we will only talk about the important ones for now. There are 7 important parts including disks for storage and the read/write arms.</p>
+
+        <h3>M.2 SSD Storage</h3>
+        <p>M.2 SSD Storage is complex and has multiple parts, including a turbo fan, aluminum fin, and heat sink to keep it cool.</p>
+
+        <h3>SSD</h3>
+        <p>An SSD is mainly used for storage and operating systems. It has a flash memory board, a controller, and a cache for fast access.</p>
+
+        <h3>USB Thumb Drive</h3>
+        <p>The USB Thumb Drive consists of a flash memory chip, a controller device, and a USB connector to transfer and store data.</p>
+
+        <h3>SD Cards</h3>
+        <p>SD cards mainly consist of flash memory, read/write pins, and a cache for identifying data when connected to a computer.</p>
+
+        <h2>4. About Storage Devices</h2>
+        <p>Each storage device has specific features and purposes, such as external storage, operating system support, and gaming performance.</p>
+
+        <h2>5. Why Storage Devices?</h2>
+        <p>Storage devices serve multiple purposes, including powering devices, storing data, and supporting operating systems.</p>
+
+        <h2>6. Ending</h2>
+        <p>Thank you! If you want more, you can visit my website: <a href="https://sites.google.com/view/storage12345/home" target="_blank">Visit Here</a></p>
+    </div>
+</body>
+</html>
